@@ -6,7 +6,7 @@
 /*   By: rnaamaou <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/04 12:52:29 by rnaamaou          #+#    #+#             */
-/*   Updated: 2021/11/05 16:04:09 by rnaamaou         ###   ########.fr       */
+/*   Updated: 2021/11/21 18:44:09 by rnaamaou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,4 +20,3 @@ int	ft_isascii(int c)
 	}
 	return (0);
 }
-//is a ascii number by octal here

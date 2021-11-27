@@ -6,7 +6,7 @@
 /*   By: rnaamaou <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/04 13:46:50 by rnaamaou          #+#    #+#             */
-/*   Updated: 2021/11/05 16:03:01 by rnaamaou         ###   ########.fr       */
+/*   Updated: 2021/11/21 18:44:37 by rnaamaou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,4 +20,3 @@ int	ft_isprint(int c)
 	}
 	return (0);
 }
-//is a printble char by decimal here
